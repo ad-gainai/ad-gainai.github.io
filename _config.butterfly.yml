@@ -104,4 +104,4 @@ theme: butterfly
 deploy:
   type: 'git'
   repository: git@github.com:ad-gainai/ad-gainai.github.io.git
-  branch: master
+  branch: main
